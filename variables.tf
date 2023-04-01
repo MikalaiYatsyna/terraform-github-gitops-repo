@@ -1,4 +1,4 @@
 variable "stack" {
-    type        = string
-    description = "Stack name"
+  type        = string
+  description = "Stack name"
 }
